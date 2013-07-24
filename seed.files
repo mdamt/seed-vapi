@@ -1,0 +1,2 @@
+include/seed-gtk3/seed.h
+lib/libseed-gtk3.so
